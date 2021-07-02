@@ -6,6 +6,6 @@ public class HelloWorld {
   public static void main(String[] args) {
     System.out.println("Hello, SFIT");
     System.out.println("WELCOME TO THE DEVOPS LAB");
-    System.out.println("testing github webhooks");
+    System.out.println("new testing github webhooks");
   }
 }
